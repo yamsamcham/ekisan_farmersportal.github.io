@@ -40,7 +40,7 @@ catalogue==2.0.3
 certifi==2019.11.28
 cffi==1.14.0
 chardet==3.0.4
-ChatterBot==1.0.8
+ChatterBot==1.0.5
 click==6.6
 cloudpickle==0.6.1
 colorama==0.4.3
