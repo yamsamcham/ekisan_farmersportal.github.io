@@ -195,7 +195,7 @@ numpy==1.19.5
 oauth2client==3.0.0
 oauthlib==3.1.0
 opencv-contrib-python==4.5.1.48
-opencv-python==4.2.0.34
+opencv-python==4.3.0.38
 opt-einsum==3.3.0
 packaging==20.9
 pandas==1.0.3
