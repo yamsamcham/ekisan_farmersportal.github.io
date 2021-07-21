@@ -267,7 +267,7 @@ def fsignin(request):
             farmid = curuser['localId']
             # session_id = user['localId']
             # request.session['uid'] = str(session_id)
-            mes = "You are Loged in"
+            mes = "You are Logged in"
             return render(request, "index.html", {'mess': mes,'cur':user})
         except:
             mes = "Invalid Credentials"
